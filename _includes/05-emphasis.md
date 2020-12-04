@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+_Enthusiastic ambivert_. Geeky, **liberal**, friendly, curious, **_hopepunk_**; trying to be a good person. 
