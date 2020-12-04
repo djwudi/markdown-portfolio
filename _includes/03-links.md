@@ -1,1 +1,2 @@
-Replace this with a link to your a GitHub or social media profile.
+* [My blog](http://michaelhans.com/eclecticism)
+* [My music](http://mixcloud.com/djwudi)
